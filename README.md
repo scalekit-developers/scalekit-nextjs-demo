@@ -15,7 +15,7 @@
 
 A modern Next.js application demonstrating <a href="https://scalekit.com" target="_blank" rel="noopener noreferrer">Scalekit</a>'s enterprise authentication capabilities. This example showcases how to implement SSO authentication flows in a React/Next.js application using the app router.
 
-Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+Scalekit provides auth and actions on behalf of users, with 600+ connectors and 35,000+ tools.
 
 ## 🚀 What This Demo Shows
 
